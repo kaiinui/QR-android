@@ -14,3 +14,13 @@ LICENSE
 
 - ZXing: The Apache License, Version 2.0
 - android-lib-ZXingCaptureActivity: The Apache License, Version 2.0
+
+Problem
+--
+
+Too near, it will not works.
+
+Want to try
+---
+
+https://github.com/phishman3579/android-quick-response-code
